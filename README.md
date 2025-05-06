@@ -1,5 +1,5 @@
 THe name's Toastuun, or Toaster if you prefer.
 
-I mainly will put some minecraft related stuff here for now, maybe some modpacks or KubeJS scripts.
+I'll just put whatever here ngl
 
 Feel free to look around :)
